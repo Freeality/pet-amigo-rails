@@ -47,3 +47,4 @@ bower.json
 # yardoc
 /doc
 .yardoc
+.vscode
